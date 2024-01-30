@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
+# Email Viewer App
+This is a simple email viewer app to fulfll MacEwan University CMPT315 WInter 2024 Assignment 3.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
