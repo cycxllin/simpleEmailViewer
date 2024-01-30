@@ -1,0 +1,32 @@
+.preview {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 16px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    margin: 5px;
+}
+
+.preview:hover {
+    transform: scale(1.05); 
+}
+
+.read {
+    background: #588157;
+    color: #e8ebe3;
+}
+
+.unread {
+    background: #C1495F;
+    color: #e8ebe3;
+}
+
+.active {
+    background-color: #7392B7;
+    color: #e8ebe3;
+}

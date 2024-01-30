@@ -1,0 +1,14 @@
+.emailbody {
+    background: #588157;
+    color: #e8ebe3;
+    font-size: 1.2em;
+    padding: 10px;
+    margin: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+    text-align: center;
+    border: 1px solid black;
+    height: fit-content;
+    position: sticky;
+    top: 0;
+}

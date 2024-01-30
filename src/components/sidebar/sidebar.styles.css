@@ -1,0 +1,12 @@
+.sidebar-container {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    padding: 10px;
+}
+
+h1 {
+    color: #e8ebe3;
+    font-size: 3em;
+}
