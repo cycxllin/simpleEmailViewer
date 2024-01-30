@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cycxllin/simpleEmailViewer.git/static/css/main.2798ec57.css",
+    "main.js": "/cycxllin/simpleEmailViewer.git/static/js/main.81f94604.js",
+    "static/js/787.28d34e05.chunk.js": "/cycxllin/simpleEmailViewer.git/static/js/787.28d34e05.chunk.js",
+    "index.html": "/cycxllin/simpleEmailViewer.git/index.html",
+    "main.2798ec57.css.map": "/cycxllin/simpleEmailViewer.git/static/css/main.2798ec57.css.map",
+    "main.81f94604.js.map": "/cycxllin/simpleEmailViewer.git/static/js/main.81f94604.js.map",
+    "787.28d34e05.chunk.js.map": "/cycxllin/simpleEmailViewer.git/static/js/787.28d34e05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2798ec57.css",
+    "static/js/main.81f94604.js"
+  ]
+}
